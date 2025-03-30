@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Core AI SDK library
+airflow-ai-sdk
+
+# Dependency for Gemini integration within pydantic-ai
+google-generativeai
+
+# Add apache-airflow if running locally or specific provider packages if needed
+# e.g., apache-airflow-providers-google 
